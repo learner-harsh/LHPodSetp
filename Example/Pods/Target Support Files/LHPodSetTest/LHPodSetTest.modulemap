@@ -1,6 +1,0 @@
-framework module LHPodSetTest {
-  umbrella header "LHPodSetTest-umbrella.h"
-
-  export *
-  module * { export * }
-}
